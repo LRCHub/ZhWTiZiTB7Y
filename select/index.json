@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Porch Light",
+  "base_artist": "Noah Kahan",
+  "createdAt": "2026-03-19T10:05:23.813608Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Porch Light",
+      "artist": "Robert Cray",
+      "has_synced": false,
+      "path": "select/01_Porch_Light_Robert_Cray.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Porch Light",
+      "artist": "Josh Meloy",
+      "has_synced": true,
+      "path": "select/02_Porch_Light_Josh_Meloy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Porch Light",
+      "artist": "Aoife O'Donovan",
+      "has_synced": true,
+      "path": "select/03_Porch_Light_Aoife_O'Donovan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Porch Light",
+      "artist": "Handguns",
+      "has_synced": false,
+      "path": "select/04_Porch_Light_Handguns.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Porch Light",
+      "artist": "The Robert Cray Band",
+      "has_synced": false,
+      "path": "select/05_Porch_Light_The_Robert_Cray_Band.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Porch Light",
+      "artist": "Ally Evenson",
+      "has_synced": true,
+      "path": "select/06_Porch_Light_Ally_Evenson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Porch Light (Live)",
+      "artist": "Aoife O’Donovan",
+      "has_synced": false,
+      "path": "select/07_Porch_Light_(Live)_Aoife_O’Donovan.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Porch Light",
+      "artist": "Sunsleeper",
+      "has_synced": false,
+      "path": "select/08_Porch_Light_Sunsleeper.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Porch Light",
+      "artist": "Robert Cray Band",
+      "has_synced": false,
+      "path": "select/09_Porch_Light_Robert_Cray_Band.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Porch Light (Paused)",
+      "artist": "Josh Meloy",
+      "has_synced": true,
+      "path": "select/10_Porch_Light_(Paused)_Josh_Meloy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Porch Light",
+      "artist": "JOSH MELOY",
+      "has_synced": false,
+      "path": "select/11_Porch_Light_JOSH_MELOY.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Porch light",
+      "artist": "Lynne Hanson",
+      "has_synced": false,
+      "path": "select/12_Porch_light_Lynne_Hanson.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "If the World Had a Front Porch",
+      "artist": "Tracy Lawrence",
+      "has_synced": false,
+      "path": "select/13_If_the_World_Had_a_Front_Porch_Tracy_Lawrence.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "If the World Had a Front Porch (LP Version)",
+      "artist": "Tracy Lawrence",
+      "has_synced": false,
+      "path": "select/14_If_the_World_Had_a_Front_Porch_(LP_Version)_Tracy_Lawrence.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "My Front Porch Looking In",
+      "artist": "Lonestar",
+      "has_synced": true,
+      "path": "select/15_My_Front_Porch_Looking_In_Lonestar.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "That Ain't My Truck (Back Porch Acoustic Version)",
+      "artist": "Rhett Akins",
+      "has_synced": true,
+      "path": "select/16_That_Ain't_My_Truck_(Back_Porch_Acoustic_Version)_Rhett_Akins.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Porch Swing",
+      "artist": "Wendy & Lisa",
+      "has_synced": false,
+      "path": "select/17_Porch_Swing_Wendy_&_Lisa.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Back Porch",
+      "artist": "The Presidents of the United States of America",
+      "has_synced": true,
+      "path": "select/18_Back_Porch_The_Presidents_of_the_United_States_of_America.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Porch",
+      "artist": "Pearl Jam",
+      "has_synced": true,
+      "path": "select/19_Porch_Pearl_Jam.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Back on the Porch",
+      "artist": "Juicy J",
+      "has_synced": false,
+      "path": "select/20_Back_on_the_Porch_Juicy_J.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Porch (Live)",
+      "artist": "Pearl Jam",
+      "has_synced": false,
+      "path": "select/21_Porch_(Live)_Pearl_Jam.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Porch (Live MTV Unplugged)",
+      "artist": "Pearl Jam",
+      "has_synced": false,
+      "path": "select/22_Porch_(Live_MTV_Unplugged)_Pearl_Jam.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Porch Song",
+      "artist": "Orchid Mantis",
+      "has_synced": true,
+      "path": "select/23_Porch_Song_Orchid_Mantis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Porch Light",
+      "artist": "Noah Kahan",
+      "has_synced": false,
+      "path": "select/pl_01_Porch_Light_Noah_Kahan.txt"
+    }
+  ]
+}
